@@ -51,7 +51,7 @@ const AddEmployee = (props) => {
                        placeholder="Phone"/>
               </div>
 
-              <button type="submit" className="btn btn-primary">Add</button>
+              <button type="submit" className="btn btn-primary">Save</button>
             </form>
           </div>
         </div>

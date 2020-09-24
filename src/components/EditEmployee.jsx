@@ -67,7 +67,7 @@ const EditEmployee = (props) => {
                        placeholder="Phone"/>
               </div>
 
-              <button type="submit" className="btn btn-primary">Edit</button>
+              <button type="submit" className="btn btn-primary">Save</button>
               &nbsp;
               <button className="btn btn-danger" onClick={deleteEmp}>Delete</button>
 
