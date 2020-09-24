@@ -11,7 +11,7 @@ const EmployeeList = () => {
       <div className="container">
         <div className="row">
           <div className="col-md-8 col-md-offset-2">
-            <h1>Employees</h1>
+            <h1 class="text-primary">Employees</h1>
             <Link to="/add" className="btn btn-primary">Add</Link>
             <table className="table">
               <thead>

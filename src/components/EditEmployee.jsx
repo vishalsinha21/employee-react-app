@@ -33,7 +33,7 @@ const EditEmployee = (props) => {
       <div className="container" onSubmit={onSubmit}>
         <div className="row">
           <div className="col-md-8 col-md-offset-2">
-            <h1>Edit Employee</h1>
+            <h1 class="text-primary">Edit Employee</h1>
 
             <form className="add-employee-form">
               <div className="form-group">
